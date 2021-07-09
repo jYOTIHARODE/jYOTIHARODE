@@ -1,6 +1,5 @@
-### Hi there 👋
-
-![YOTIHARODE's github stats](https://github-readme-stats.vercel.app/api?username=jYOTIHARODE&&show_icons=true&title_color=001F3F&icon_color=85144B&text_color=85144B&bg_color=50,FFDC00,FF4136 )
+### Hello !!!!!
+![YOTIHARODE's github stats](https://github-readme-stats.vercel.app/api?username=jYOTIHARODE&&show_icons=true&title_color=yellow&icon_color=85144B&text_color=85144B&bg_color=50,FFDC00,FF4136 )
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jYOTIHARODE&exclude_repo=github-readme-stats,jYOTIHARODE.github.io)
 

@@ -3,7 +3,7 @@
 
 🔭  I'm a final year student<br>
 👀 I’m interested in Web Development and Problem solving<br>
-🏣 Also I am posting some of my codes while learning Web development and some Projects<br>
+🏣 Also I am posting some of my codes while learning Web development and projects <br>
 📫 GET IN TOUCH - https://www.linkedin.com/in/jyharode/<br>
 ⚡ Fun fact- Coding is a never ending puzzle.............<br>
 

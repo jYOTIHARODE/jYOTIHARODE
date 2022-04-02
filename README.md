@@ -1,7 +1,7 @@
 
 👋 Hi there, I’m Jyoti Harode
 
-🔭  I'm a final year student<br>
+🔭  Working @ Deloitte <br>
 👀 I’m interested in Web Development and Problem solving<br>
 🏣 Also I am posting some of my codes while learning Web development and projects <br>
 📫 GET IN TOUCH - https://www.linkedin.com/in/jyharode/<br>

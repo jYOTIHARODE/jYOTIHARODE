@@ -1,11 +1,11 @@
 
 👋 Hi there, I’m Jyoti Harode
 
-🔭  Working @ Deloitte <br>
+##  Working @ Deloitte <br>
 👀 I’m interested in Web Development and Problem solving<br>
-🏣 Also I am posting some of my codes while learning Web development and projects <br>
+🏣 Also I am posting some of my codes while doing coding <br>
 📫 GET IN TOUCH - https://www.linkedin.com/in/jyharode/<br>
-⚡ Fun fact- Coding is a never ending puzzle.............<br>
+⚡ Fun fact- Coding is a never ending puzzle .............<br>
 
 ![YOTIHARODE's github stats](https://github-readme-stats.vercel.app/api?username=jYOTIHARODE&show_icons=true)
 <br>
